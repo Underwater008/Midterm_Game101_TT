@@ -1,0 +1,4 @@
+repository "2d yuanqiqishi@ssl://m0yuman@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/778572823" 
+     
